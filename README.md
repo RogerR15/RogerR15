@@ -46,13 +46,6 @@ A TypeScript project inspired by Jira, focusing on project and task management f
 
 ---
 
-## 📊 GitHub Stats
-
-![Roger's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RogerR15&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RogerR15&layout=compact&theme=radical)
-
----
-
 ## 📫 Contact Me
 
 - **LinkedIn:** https://www.linkedin.com/in/robert-popa-7525b024a/  
