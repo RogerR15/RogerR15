@@ -29,19 +29,16 @@ I enjoy turning ideas into functional products and constantly improving my skill
 
 ### 🔹 **NidusHomes**
 A real estate platform aggregating listings and transforming them into user-friendly insights.  
-![NidusHomes Screenshot](https://i.imgur.com/yourimage2.png)  
 🔗 [GitHub Repo](https://github.com/RogerR15/NidusHomes)
 
 
 ### 🔹 **SmartHomeHub**
 A Java desktop application demonstrating the **Observer design pattern** with a modular UI for smart-home controls (thermostat, lighting, security, music).  
-![SmartHomeHub Screenshot](https://i.imgur.com/yourimage.png)  
 🔗 [GitHub Repo](https://github.com/RogerR15/SmartHomeHub)
 
 
 ### 🔹 **jira-clone**
-A TypeScript project inspired by Jira, focusing on project and task management features.  
-![Jira Clone Screenshot](https://i.imgur.com/yourimage3.png)  
+A TypeScript project inspired by Jira, focusing on project and task management features.   
 🔗 [GitHub Repo](https://github.com/RogerR15/jira-clone)
 
 ---
