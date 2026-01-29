@@ -43,6 +43,25 @@ A TypeScript project inspired by Jira, focusing on project and task management f
 
 ---
 
+## 🔮 Upcoming Projects
+
+- **Drive-thru & To-Go Coffee App** – A mobile/web application that allows users to pre-order coffee and pick it up instantly upon arrival.  
+  **Tech stack (planned):** React Native / Next.js, Python, PostgreSQL, payment integration.  
+  **Key features:** Menu browsing, pre-ordering, notifications when order is ready, location-based store selection.
+
+- **Car Cost Estimator (with Francesco)** – A web/mobile app to help users calculate the real cost of owning a car in Romania.  
+  **Tech stack (planned):** React / React Native, Python, MongoDB/PostgreSQL, web scraping for Autovit listings.  
+  **Key features:**  
+    • Input car brand, model, year, and mileage to calculate: RCA, CASCO, fuel, maintenance, taxes, ITP.  
+    • Upload a link from Autovit → app automatically extracts car data and generates a detailed cost report.  
+    • Save and compare multiple car options.
+
+
+- **More Projects in the pipeline…**  
+  Ideas include SaaS dashboards, AI-powered productivity tools, and other web/mobile utilities for daily life.
+
+---
+
 ## 📫 Contact Me
 
 - **LinkedIn:** https://www.linkedin.com/in/robert-popa-7525b024a/  
