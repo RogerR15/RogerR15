@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Robert Popa (RogerR15)
+# 👋 Hi, I'm Robert
 
-I'm a **Computer Engineering student** and a **junior full-stack web developer** passionate about building real-world applications.  
+I'm a **Computer Engineering Student** and a **Junior Full-Stack Developer** passionate about building real-world applications.  
 
 I enjoy turning ideas into functional products and constantly improving my skills through personal and team projects. I work with modern web technologies, care about clean, maintainable, and scalable code, and love learning new things every day.
 
